@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi! I'm Vini 👋
+# Hi! I'm Vini ;)
 
 ### Quantitative Developer
 **High Performance Computing • Distributed Systems • Functional Programming**
