@@ -15,19 +15,12 @@ Obsessed with **applied mathematics**, **complex problem-solving**, **functional
 
 Specialized in building high-performance distributed systems with focus on optimization and efficiency.
 
----
+## GitHub Stats
 
-## Tech Stack
-
-```
-Languages          C# • Python • Java • Clojure • TypeScript
-Frameworks         .NET • Spring Boot • React
-Infrastructure     Docker • Kubernetes • Nomad • Azure • AWS
-Databases          MongoDB • SQL Server • Redis
-Tools              Git • Linux • CI/CD
-```
-
----
+<div align="left">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vnzoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnzoliveira&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117"/>
+</div>
 
 ## Connect
 
@@ -42,12 +35,3 @@ Tools              Git • Linux • CI/CD
     <img src="https://img.shields.io/badge/Discord-x64mb-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
   </a>
 </p>
-
----
-
-## GitHub Stats
-
-<div align="left">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vnzoliveira&show_icons=true&theme=dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vnzoliveira&layout=compact&langs_count=7&theme=dark&hide_border=true&bg_color=0d1117"/>
-</div>
