@@ -1,8 +1,18 @@
-<div align="center">
-  
-# 👋 Olá, eu sou Vinicius P. de Oliveira
+## 🚀 About Me
 
-### Quantitative Developer | Sistemas Distribuídos | High Performance Computing
+```python
+class QuantitativeDeveloper:
+    def __init__(self):
+        self.name = "Vinicius P. Oliveira"
+        self.role = "Quantitative Developer"
+        self.education = "Bachelor's Degree in Information Systems"
+        self.interests = ["Technology", "Mathematics", "Complex Problems", "Audio"]
+        self.focus = "High Performance Computing"
+
+me = QuantitativeDeveloper()
+```
+
+Graduated in **Information Systems**, I've been passionate about technology since childhood. My focus is on **applied mathematics**, solving **complex problems**, and developing **high-performance distributed systems**.
 
 <p align="center">
   <a href="mailto:viniciuspessonio@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
@@ -10,37 +20,11 @@
   <a href="https://github.com/vnzoliveira"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
-
-</div>
-
----
-
-## 🚀 Sobre mim
-
-```python
-class QuantitativeDeveloper:
-    def __init__(self):
-        self.name = "Vinicius P. de Oliveira"
-        self.role = "Quantitative Developer"
-        self.education = "Bacharelado em Sistemas de Informação"
-        self.interests = ["Tecnologia", "Matemática", "Problemas Complexos", "Sistemas Distribuídos"]
-        self.focus = "High Performance Computing"
-    
-    def say_hi(self):
-        print("Apaixonado por tecnologia desde pequeno, adoro resolver problemas difíceis!")
-
-me = QuantitativeDeveloper()
-me.say_hi()
-```
-
-Formado em **Sistemas de Informação**, sou apaixonado por tecnologia desde pequeno. Meu foco está em **matemática aplicada**, resolução de **problemas complexos** e desenvolvimento de **sistemas distribuídos de alta performance**.
-
 ---
 
 ## 🛠️ Tech Stack
 
-### 💻 Linguagens
+### 💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
@@ -49,7 +33,7 @@ Formado em **Sistemas de Informação**, sou apaixonado por tecnologia desde peq
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
-### 🎯 Frameworks & Plataformas
+### 🎯 Frameworks & Platforms
 <p align="left">
   <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot"/>
@@ -66,8 +50,11 @@ Formado em **Sistemas de Informação**, sou apaixonado por tecnologia desde peq
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="CI/CD"/>
 </p>
 
-### 🗄️ Databases & Ferramentas
+### 🗄️ Databases & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" alt="SQL Server"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
 </p>
